@@ -8,8 +8,8 @@ Készítő: Ocztos Károly Levente
 Programozási nyelv: Python
 
 ## Feladatok
-- Téma elemzése
-- Adatok vizualizálása
-- Adatok elemzése
-- Egyszerűbb idősorelemző modell készítése (pl.: ARIMA) és kiértékelése
-- Kísérletezés további idősorelemző modellekkel
+- Adatelemzés, vizualizáció értelmezés (klaszterezés)
+- APRS modell fitt-elése
+- Streamlit applikáció
+- Elméleti összefoglaló az olajkút adatairól, az APRS-ról, és a Curve fitről
+- A streamlit applikáció működésének leírása
